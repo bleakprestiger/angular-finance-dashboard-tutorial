@@ -69,7 +69,11 @@ Angular 14–21 introduced architectural shifts. This guide uses **modern standa
 - **UX Focus:** Visual hierarchy, spacing systems, and semantic HTML.
 
 ### 1. Components & The Component Tree
-Angular splits UI into reusable pieces called components. Think of a component as a **modular furniture unit**. A chair has legs, a seat, and a back. You don't rebuild the chair every time; you just place it in a room. Angular does the same with UI.
+- Angular splits UI into reusable pieces called components. 
+- Think of a component as a **modular furniture unit**. 
+- A chair has legs, a seat, and a back. 
+- You don't rebuild the chair every time; you just place it in a room. 
+- Angular does the same with UI.
 
 Generate the first component:
 ```bash
